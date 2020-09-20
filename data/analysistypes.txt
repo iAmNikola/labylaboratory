@@ -1,0 +1,12 @@
+1;Vitamin C;Vitamini;4.0;15.0;mg/L;2100.0
+2;Vitamin E;Vitamini;5.5;17.0;ng/mL;2650.0
+3;Vitamin A;Vitamini;15.0;60.0;mg/dL;2650.0
+4;Gastrin;Hormoni;13.0;115.0;pg/mL;1800.0
+5;Leptin;Hormoni;1.1;27.5;ng/ml;1500.0
+6;Melatonin;Hormoni;3.0;10.0;pg/mL;9000.0
+7;Urea;Biohemija;2.8;8.3;mmol/L;140.0
+8;Kreatinin;Biohemija;62.0;103.0;umol/L;100.0
+9;Ceruloplazmin;Biohemija;0.2;0.6;g/L;1000.0
+10;Sedimentacija;Hematologija;0.0;24.0;mm/h;110.0
+11;Leukociti;Hematologija;4.1;10.9;x109/L;220.0
+12;Trombociti;Hematologija;140.0;440.0;x109/L;220.0

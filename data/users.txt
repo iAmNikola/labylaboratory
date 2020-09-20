@@ -1,0 +1,14 @@
+admin;admin;Admir;Admirovic
+maministrator;maministrator;Mama;Mamic
+tatinistrator;tatinistrtator;Tata;Tatic
+marinko;tehnicar;Marinko;Zidar;3
+ljubicica;buketcveca;Ljubica;Finta;4
+jakovari;limanliman;Jakov;Ari;4
+djoleteh;nuggets00;Djordje;Vajagic;4
+bubibubi;ljubibrat12;Bure;Sudar;98769876987;M;03.12.2000.;1234567890;1,2,3,4;Milenkova 12
+pacijent123;pacijent123;Test;Testic;12345678901;M;03.02.2000.;1234567891;5,6,7,8,9;Test 202
+hipohondar;bolesnik123;Uvek;Bolestan;57892104726;M;16.05.1965.;4893243289;5,6;Zlatna 19
+slavisa9;sifra321;Slavoljub;Tatomirovic;19489064830;F;01.11.1999.;3217832132;7,8;Lovacka 6
+alabdin;alabih123;Miladin;Aladin;6;Hematologija,Hormoni;0
+slbdndn;pasvrd99;Shipe;Karan;5;Biohemija,Vitamini;0
+sumadija78;prsuta100;Miljan;Kakashi;4;Hormoni;1
